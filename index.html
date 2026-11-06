@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <title>F1 Analysis</title>
+
+  <link rel="stylesheet" href="style.css"/>
+</head>
+
+<body>
+  <header style="display: box; align-items: normal; gap: 5px;">
+    <h1><img src="https://www.formula1.com/etc/designs/fom-website/images/f1_logo.svg" alt="F1 Logo" style="height: 32px;" class="racing-sans-one-regular">: A Deep Dive for New Fans</h1>
+  </header>
+  
+  <div class="intro-globe-wrapper">
+
+    <div class="intro-text">
+      <h2 style="font-size: 32px;">Introduction</h2>
+      <p><b>Formula One (F1)</b> is the highest class of worldwide racing for open-wheel single-seater formula racing cars sanctioned by 
+        the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the world's premier 
+        forms of motorsport since its inaugural running in 1950 and is often considered to be the pinnacle of motorsport.
+        The word formula in the name refers to the set of rules all participant cars must follow. A Formula One season consists of a 
+        series of races, known as Grands Prix. Grands Prix take place in multiple countries and continents on either purpose-built 
+        circuits or closed roads.</p>
+      <p>For the scope of this assessment, I have just considered the season of 2024 as it is the most recently completed season. The 2025
+        Championship season is still in progress.</p>
+      <p>A record-breaking <b>24 Grands Prix</b> were scheduled for the 2024 Formula 1 season, though ultimately 23 races were held. The 
+        Chinese Grand Prix returned for the first time since 2019, allowing Zhou Guanyu to compete in his home race in April. Imola also 
+        rejoined the calendar after being cancelled in 2023 due to severe flooding. There were no entirely new races in 2024, with recent 
+        additions like Qatar, Miami, and Las Vegas already established. Notably, three races were held on Saturdays—Bahrain, Saudi Arabia,
+        and Las Vegas—following the format introduced in 2023. The Japanese Grand Prix moved to an earlier slot in April, and the season 
+        concluded in early December in Abu Dhabi.</p>
+      <p>The interactive map on the right shows the locations at which the races took place in 2024. Each point on the map denotes the 
+        race location. For better understanding, I have color encoded the points according to the region. The regions taken into
+        consideration are:</p>
+        <ul>
+          <li><b>Ocenia: </b>Australia</li>
+          <li><b>Asia: </b>China, Japan and Singapore</li>
+          <li><b>Europe: </b>Austria, Azerbaijan, Belgium, Hungary, Italy, Monaco, Netherlands, Spain and United Kingdom</li>
+          <li><b>Middle East:</b>Bahrain, Qatar, Saudi Arabia and United Arab Emirates</li>
+          <li><b>North America:</b>Canada, Mexico and United States of America</li>
+          <li><b>South America:</b>Brazil</li>
+        </ul>
+    </div>
+    
+    <div class="intro-globe">
+      <h2 style="font-size: 30px;">Race Locations for the 2024 Formula 1 Season</h2>  
+      <svg id="globe" width="500" height="500"></svg>
+      <p>Hover on each point on the globe to see the track location based on each region</p>
+    </div>
+  </div>
+
+  <section id="teams-section" class="static-section">
+    
+    <div class="section-split">
+
+      <div class="team-left">
+      
+        <div class="team-grid">
+      
+          <div class="team-card">
+            <a href="https://en.wikipedia.org/wiki/McLaren" target="_blank" class="team-card">
+              <img src="https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/2018-redesign-assets/team logos/mclaren" alt="McLaren" class="team-logo" >
+            </a>
+            <div class="team-name">McLaren Formula 1 Team</div>
+          </div>
+          
+          <div class="team-card">
+            <a href="https://en.wikipedia.org/wiki/Scuderia_Ferrari" target="_blank" class="team-card">
+              <img src="https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/team logos/ferrari" alt="Ferrari" class="team-logo">
+            </a>
+            <div class="team-name">Scuderia Ferrari HP</div>
+          </div>
+          
+          <div class="team-card">
+            <a href="https://en.wikipedia.org/wiki/Red_Bull_Racing" target="_blank" class="team-card">
+              <img src="https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/2018-redesign-assets/team logos/red bull" alt="Red Bull" class="team-logo">
+            </a>
+            <div class="team-name">Oracle Red Bull Racing</div>
+          </div>
+
+          <div class="team-card">
+            <a href = "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One" target="_blank" class="team-card">
+              <img src="https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/2018-redesign-assets/team logos/mercedes" alt="Mercedes" class="team-logo">
+            </a>
+            <div class="team-name">Mercedes-AMG Petronas F1 Team</div>
+          </div>
+          
+          <div class="team-card">
+            <a href="https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One" target="_blank" class="team-card">
+              <img src="https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/team logos/aston martin" alt="Aston Martin" class="team-logo">
+            </a>
+            <div class="team-name">Aston Martin Aramco F1 Team</div>
+          </div>
+          
+          <div class="team-card">
+            <a href="https://en.wikipedia.org/wiki/Alpine_F1_Team" target="_blank" class="team-card">
+              <img src="https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/2018-redesign-assets/team logos/alpine" alt="Alpine" class="team-logo">
+            </a>
+            <div class="team-name">BWT Alpine F1 Team</div>
+          </div>
+          
+          <div class="team-card">
+            <a href="https://en.wikipedia.org/wiki/Haas_F1_Team" target="_blank" class="team-card">
+              <img src="https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/2018-redesign-assets/team logos/haas" alt="Haas" class="team-logo">
+            </a>
+            <div class="team-name">MoneyGram Haas F1 Team</div>
+          </div>
+          
+          <div class="team-card">
+            <a href="https://en.wikipedia.org/wiki/Racing_Bulls_VCARB_02" target="_blank" class="team-card">
+              <img src="https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/fom-website/2018-redesign-assets/team logos/racing bulls" alt="Racing Bulls" class="team-logo">
+            </a>
+            <div class="team-name">Visa Cash App Racing Bulls F1 Team</div>
+          </div>
+          
+          <div class="team-card">
+            <a href="https://en.wikipedia.org/wiki/Williams_Racing" target="_blank" class="team-card">
+              <img src="https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/team logos/williams" alt="Williams" class="team-logo">
+            </a>
+            <div class="team-name">Atlassian Williams Racing</div>
+          </div>
+          
+          <div class="team-card">
+            <a href="https://en.wikipedia.org/wiki/Sauber_Motorsport" target="_blank" class="team-card">
+              <img src="https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/2018-redesign-assets/team logos/kick sauber" alt="Kick Sauber" class="team-logo">
+            </a>
+            <div class="team-name">Stake F1 Team Kick Sauber</div>
+          </div>
+
+          <div class="team-card">
+            <a href="https://en.wikipedia.org/wiki/Audi_in_Formula_One" target="_blank" class="team-card">
+              <img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Audi-Logo_2016.svg/250px-Audi-Logo_2016.svg.png" alt="Audi" class="team-logo">
+            </a>
+            <div class="team-name">Audi F1 Team (2026)</div>
+          </div>
+
+          <div class="team-card">
+            <a href="https://en.wikipedia.org/wiki/Cadillac_in_Formula_One" target="_blank" class="team-card">
+              <img src="//upload.wikimedia.org/wikipedia/en/thumb/b/bc/Cadillac_Formula_1_Team_Logo_%282025%29.svg/250px-Cadillac_Formula_1_Team_Logo_%282025%29.svg.png" alt="Cadillac" class="team-logo">
+            </a>
+            <div class="team-name">Cadillac Formula 1 Team (2026)</div>
+          </div>
+        </div>
+      </div>
+
+    <div class="team-right">
+            <h2>Constructors</h2>
+            <p>In terms of Formula 1, a team is called as a <b>constructor.</b> Every constructor consists of two drivers racing for that 
+              team. The first Formula 1 season saw 30 teams contest. With time, there have been teams which have enterred and left the 
+              sport at certain point in time. There have been various teams that have been rebranded as well i.e. they have been sold to 
+              different owners or brands. Alongside the drivers championship, there is a constructor championship as well which is fought 
+              between the teams. The pair of drivers together contribute to the scores of the team. For example, in a team, if a driver 
+              scores 8 points and the other driver scores 25 points in a particular race, the total score of the team for that race is 
+              calculated as <b>25 + 8 = 33</b> points for that race. These points keep accumulating and the team with the most points 
+              in the end of the season is crowned as the champion.</p>
+            <p>In the 2024 season, McLaren were crowned as the season winners with 666 points followed closely by Ferrari standing at 
+                652 points.
+                The 10 teams who were a part of the 2024 season are shown on the left.</p>
+            <p>The teams have been the same for the 2025 season, with driver swaps happening early in the season. 2 new teams are set to 
+               join the grid for the 2026 season. However, Audi will be replacing the existing Kick Sauber Team.</p>
+            <p>Over the years, constructors have not only competed for race wins but have also become engineering powerhouses, pushing 
+               the boundaries of automotive innovation. Advancements in aerodynamics, hybrid engines, and pit-stop strategies all stem 
+               from the relentless pursuit of performance. These innovations often trickle down to consumer vehicles, making Formula 1 a 
+               key contributor to global automotive progress.</p>
+            <p>To infer more information about these teams, click on the team logos to find information about the teams.</p>
+      </div>
+</section>
+
+<section id="analysis-section" class="static-section">
+
+  <div class="section-content">
+
+    <h2>Drivers and Team Analysis</h2>
+    <p>This section is a critical part in this web page as we can get a detailed information regarding the performance of different teams, 
+      drivers, how teams have been successful over the years and how the drivers have contributed to their success. Another crucial information
+      is how have the drivers been related to one another.</p>
+    <p>The Driver Network Analysis shows how the drivers relation has been with teammates over the years.</p>
+    <p>The interaction in this section are as follows:
+      <ol>
+        <li>Select Year from the dropdown. Default set to 2000</li>
+        <li>Once the year is selected, the next dropdown appears which helps in selecting the team.</li>
+        <li>After the team is selected, the driver points contribution for that season is showed in the form of the bar chat. The number
+          in the center is the total points for the team.</li>
+        <li>The team which you select, is the one which will be highlighted on the team points chart for better comparison</li>
+        <li>When you click the bar of any driver, you can view the driver teammate network.</li>
+        <li>Additionally, there is a hover effect on the nodes to show more in detail statistics.</li>
+      </ol>
+    </p>
+
+    <div id="analysis-interactive">
+      
+      <label for="yearSelect">Select Year:</label>
+      <select id="yearSelect"></select>
+      
+      <div id="team-dropdown">
+
+        <label for="teamSelect">Select Team:</label>
+        <select id="teamSelect"></select>
+      </div>
+    </div>
+  </div>
+  
+  <div class="analysis-grid">
+    
+    <div class="chart-left" style="flex: 1; display: flex; flex-direction: column; align-items: center;">
+
+      <div class="chart-title">Driver Contribution</div>
+
+      <div class="driver-analysis-wrapper">
+        
+        <div id="contribution-meter" style="display: flex; justify-content: center; align-items: flex-end; gap: 40px;">
+
+            <div id="network-modal">
+              <button onclick="closeModal()">Close</button>
+              <h3 id="modal-title" style="text-align: center;">Teammate Network</h3>
+              <p style="text-align: left; padding-left: 20px; max-width:203px"><b>Hover on any node except the central node to find out more.</b></p>
+              <svg id="teammate-network" width="100%" height="90%"></svg>
+            </div>
+        
+        <div class="driver-box">
+          <div class="driver-name" id="left-driver-name">Driver 1</div>
+          <div class="bar-wrapper">
+            <div class="driver-bar" id="left-bar">
+              <span class="bar-points" id="left-points">0</span>
+            </div>
+          </div>
+        </div>
+        
+        <div id="total-points" style="font-size: 32px; font-weight: bold;">0</div>
+        
+        <div class="driver-box">
+          <div class="driver-name" id="right-driver-name">Driver 2</div>
+          <div class="bar-wrapper">
+            <div class="driver-bar" id="right-bar">
+              <span class="bar-points" id="right-points">0</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    
+    <div class="chart-right" style="flex: 1; display: flex; flex-direction: column; align-items: center;">
+      
+      <div class="chart-title" style="font-size: 20px; font-weight: bold; color: #101F2E; margin-bottom: 10px;">Team Performance (Points)</div>
+      <svg id="line-chart" width="600" height="400" style="background: none;"></svg>
+    </div>
+  </div>
+</div>
+</section>
+
+<footer class="minimal-credits">
+  <p>
+    <b>Created By:</b> Akshat Dawange<span>||</span>
+    <a href="https://www.formula1.com/" target="_blank">Formula 1</a> <span>|</span>
+    <a href="https://en.wikipedia.org/wiki/Formula_One" target="_blank">Wikipedia</a> <span>|</span>
+    <a href="https://d3js.org/" target="_blank">D3.js</a>
+  </p>
+</footer>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://unpkg.com/topojson@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,544 @@
+,driverId,driverName,constructor,year,points,color
+0,michael_schumacher,Michael Schumacher,Ferrari,2000,108,#DC0000
+1,barrichello,Rubens Barrichello,Ferrari,2000,62,#DC0000
+2,ralf_schumacher,Ralf Schumacher,Williams,2000,24,#005AFF
+3,villeneuve,Jacques Villeneuve,BAR,2000,17,#C0C0C0
+4,fisichella,Giancarlo Fisichella,Benetton,2000,18,#009B77
+5,zonta,Ricardo Zonta,BAR,2000,3,#C0C0C0
+6,wurz,Alexander Wurz,Benetton,2000,2,#009B77
+7,gene,Marc Gene,Minardi,2000,0,#000000
+8,heidfeld,Nick Heidfeld,Prost,2000,0,#001489
+9,salo,Mika Salo,Sauber,2000,6,#006EFF
+10,button,Jenson Button,Williams,2000,12,#005AFF
+11,diniz,Pedro Diniz,Sauber,2000,0,#006EFF
+12,mazzacane,Gaston Mazzacane,Minardi,2000,0,#000000
+13,frentzen,Heinz-Harald Frentzen,Jordan,2000,11,#CCC200
+14,trulli,Jarno Trulli,Jordan,2000,6,#CCC200
+15,alesi,Jean Alesi,Prost,2000,0,#001489
+16,hakkinen,Mika Hakkinen,McLaren,2000,89,#FF8700
+17,verstappen,Jos Verstappen,Arrows,2000,5,#FFA500
+18,coulthard,David Coulthard,McLaren,2000,73,#FF8700
+19,rosa,Pedro de la Rosa,Arrows,2000,2,#FFA500
+20,irvine,Eddie Irvine,Jaguar,2000,4,#006F36
+21,herbert,Johnny Herbert,Jaguar,2000,0,#006F36
+22,michael_schumacher,Michael Schumacher,Ferrari,2001,123,#DC0000
+23,coulthard,David Coulthard,McLaren,2001,65,#FF8700
+24,barrichello,Rubens Barrichello,Ferrari,2001,56,#DC0000
+25,heidfeld,Nick Heidfeld,Sauber,2001,12,#006EFF
+26,frentzen,Heinz-Harald Frentzen,Jordan,2001,6,#CCC200
+27,raikkonen,Kimi Raikkonen,Sauber,2001,9,#006EFF
+28,panis,Olivier Panis,BAR,2001,5,#C0C0C0
+29,burti,Luciano Burti,Jaguar,2001,0,#006F36
+30,alesi,Jean Alesi,Prost,2001,5,#001489
+31,verstappen,Jos Verstappen,Arrows,2001,1,#FFA500
+32,irvine,Eddie Irvine,Jaguar,2001,6,#006F36
+33,alonso,Fernando Alonso,Minardi,2001,0,#000000
+34,fisichella,Giancarlo Fisichella,Benetton,2001,8,#009B77
+35,button,Jenson Button,Benetton,2001,2,#009B77
+36,montoya,Juan Pablo Montoya,Williams,2001,31,#005AFF
+37,trulli,Jarno Trulli,Jordan,2001,12,#CCC200
+38,hakkinen,Mika Hakkinen,McLaren,2001,37,#FF8700
+39,ralf_schumacher,Ralf Schumacher,Williams,2001,49,#005AFF
+40,villeneuve,Jacques Villeneuve,BAR,2001,12,#C0C0C0
+41,marques,Tarso Marques,Minardi,2001,0,#000000
+42,bernoldi,Enrique Bernoldi,Arrows,2001,0,#FFA500
+43,mazzacane,Gaston Mazzacane,Prost,2001,0,#001489
+44,burti,Luciano Burti,Prost,2001,0,#001489
+45,michael_schumacher,Michael Schumacher,Ferrari,2002,144,#DC0000
+46,montoya,Juan Pablo Montoya,Williams,2002,50,#005AFF
+47,raikkonen,Kimi Raikkonen,McLaren,2002,24,#FF8700
+48,irvine,Eddie Irvine,Jaguar,2002,8,#006F36
+49,webber,Mark Webber,Minardi,2002,2,#000000
+50,salo,Mika Salo,Toyota,2002,2,#D0103A
+51,yoong,Alex Yoong,Minardi,2002,0,#000000
+52,rosa,Pedro de la Rosa,Jaguar,2002,0,#006F36
+53,coulthard,David Coulthard,McLaren,2002,41,#FF8700
+54,villeneuve,Jacques Villeneuve,BAR,2002,4,#C0C0C0
+55,frentzen,Heinz-Harald Frentzen,Arrows,2002,2,#FFA500
+56,bernoldi,Enrique Bernoldi,Arrows,2002,0,#FFA500
+57,sato,Takuma Sato,Jordan,2002,2,#CCC200
+58,trulli,Jarno Trulli,Renault,2002,9,#FFD800
+59,barrichello,Rubens Barrichello,Ferrari,2002,77,#DC0000
+60,ralf_schumacher,Ralf Schumacher,Williams,2002,42,#005AFF
+61,fisichella,Giancarlo Fisichella,Jordan,2002,7,#CCC200
+62,massa,Felipe Massa,Sauber,2002,4,#006EFF
+63,heidfeld,Nick Heidfeld,Sauber,2002,7,#006EFF
+64,button,Jenson Button,Renault,2002,14,#FFD800
+65,panis,Olivier Panis,BAR,2002,3,#C0C0C0
+66,mcnish,Allan McNish,Toyota,2002,0,#D0103A
+67,coulthard,David Coulthard,McLaren,2003,51,#FF8700
+68,montoya,Juan Pablo Montoya,Williams,2003,82,#005AFF
+69,raikkonen,Kimi Raikkonen,McLaren,2003,91,#FF8700
+70,michael_schumacher,Michael Schumacher,Ferrari,2003,93,#DC0000
+71,trulli,Jarno Trulli,Renault,2003,33,#FFD800
+72,frentzen,Heinz-Harald Frentzen,Sauber,2003,13,#006EFF
+73,alonso,Fernando Alonso,Renault,2003,55,#FFD800
+74,ralf_schumacher,Ralf Schumacher,Williams,2003,58,#005AFF
+75,villeneuve,Jacques Villeneuve,BAR,2003,6,#C0C0C0
+76,button,Jenson Button,BAR,2003,17,#C0C0C0
+77,verstappen,Jos Verstappen,Minardi,2003,0,#000000
+78,fisichella,Giancarlo Fisichella,Jordan,2003,12,#CCC200
+79,pizzonia,Antonio Pizzonia,Jaguar,2003,0,#006F36
+80,panis,Olivier Panis,Toyota,2003,6,#D0103A
+81,heidfeld,Nick Heidfeld,Sauber,2003,6,#006EFF
+82,wilson,Justin Wilson,Minardi,2003,1,#000000
+83,webber,Mark Webber,Jaguar,2003,17,#006F36
+84,matta,Cristiano da Matta,Toyota,2003,10,#D0103A
+85,firman,Ralph Firman,Jordan,2003,1,#CCC200
+86,barrichello,Rubens Barrichello,Ferrari,2003,65,#DC0000
+87,michael_schumacher,Michael Schumacher,Ferrari,2004,148,#DC0000
+88,barrichello,Rubens Barrichello,Ferrari,2004,114,#DC0000
+89,alonso,Fernando Alonso,Renault,2004,59,#FFD800
+90,ralf_schumacher,Ralf Schumacher,Williams,2004,24,#005AFF
+91,montoya,Juan Pablo Montoya,Williams,2004,58,#005AFF
+92,button,Jenson Button,BAR,2004,85,#C0C0C0
+93,trulli,Jarno Trulli,Renault,2004,46,#FFD800
+94,coulthard,David Coulthard,McLaren,2004,24,#FF8700
+95,sato,Takuma Sato,BAR,2004,34,#C0C0C0
+96,fisichella,Giancarlo Fisichella,Sauber,2004,22,#006EFF
+97,klien,Christian Klien,Jaguar,2004,3,#006F36
+98,matta,Cristiano da Matta,Toyota,2004,3,#D0103A
+99,panis,Olivier Panis,Toyota,2004,6,#D0103A
+100,pantano,Giorgio Pantano,Jordan,2004,0,#CCC200
+101,massa,Felipe Massa,Sauber,2004,12,#006EFF
+102,heidfeld,Nick Heidfeld,Jordan,2004,3,#CCC200
+103,bruni,Gianmaria Bruni,Minardi,2004,0,#000000
+104,webber,Mark Webber,Jaguar,2004,7,#006F36
+105,baumgartner,Zsolt Baumgartner,Minardi,2004,1,#000000
+106,raikkonen,Kimi Raikkonen,McLaren,2004,45,#FF8700
+107,fisichella,Giancarlo Fisichella,Renault,2005,58,#FFD800
+108,barrichello,Rubens Barrichello,Ferrari,2005,38,#DC0000
+109,alonso,Fernando Alonso,Renault,2005,133,#FFD800
+110,coulthard,David Coulthard,Red Bull,2005,24,#1E41FF
+111,webber,Mark Webber,Williams,2005,36,#005AFF
+112,montoya,Juan Pablo Montoya,McLaren,2005,60,#FF8700
+113,klien,Christian Klien,Red Bull,2005,9,#1E41FF
+114,raikkonen,Kimi Raikkonen,McLaren,2005,112,#FF8700
+115,trulli,Jarno Trulli,Toyota,2005,43,#D0103A
+116,massa,Felipe Massa,Sauber,2005,11,#006EFF
+117,button,Jenson Button,BAR,2005,37,#C0C0C0
+118,ralf_schumacher,Ralf Schumacher,Toyota,2005,45,#D0103A
+119,villeneuve,Jacques Villeneuve,Sauber,2005,9,#006EFF
+120,sato,Takuma Sato,BAR,2005,1,#C0C0C0
+121,karthikeyan,Narain Karthikeyan,Jordan,2005,5,#CCC200
+122,monteiro,Tiago Monteiro,Jordan,2005,7,#CCC200
+123,friesacher,Patrick Friesacher,Minardi,2005,3,#000000
+124,michael_schumacher,Michael Schumacher,Ferrari,2005,62,#DC0000
+125,heidfeld,Nick Heidfeld,Williams,2005,28,#005AFF
+126,albers,Christijan Albers,Minardi,2005,4,#000000
+127,davidson,Anthony Davidson,BAR,2005,0,#C0C0C0
+128,rosa,Pedro de la Rosa,McLaren,2005,4,#FF8700
+129,wurz,Alexander Wurz,McLaren,2005,6,#FF8700
+130,liuzzi,Vitantonio Liuzzi,Red Bull,2005,1,#1E41FF
+131,alonso,Fernando Alonso,Renault,2006,134,#FFD800
+132,michael_schumacher,Michael Schumacher,Ferrari,2006,121,#DC0000
+133,raikkonen,Kimi Raikkonen,McLaren,2006,65,#FF8700
+134,button,Jenson Button,Honda,2006,56,#FFFFFF
+135,montoya,Juan Pablo Montoya,McLaren,2006,26,#FF8700
+136,webber,Mark Webber,Williams,2006,7,#005AFF
+137,rosberg,Nico Rosberg,Williams,2006,4,#005AFF
+138,klien,Christian Klien,Red Bull,2006,2,#1E41FF
+139,massa,Felipe Massa,Ferrari,2006,80,#DC0000
+140,coulthard,David Coulthard,Red Bull,2006,14,#1E41FF
+141,liuzzi,Vitantonio Liuzzi,Toro Rosso,2006,1,#0A0A8F
+142,heidfeld,Nick Heidfeld,BMW Sauber,2006,23,#003366
+143,speed,Scott Speed,Toro Rosso,2006,0,#0A0A8F
+144,ralf_schumacher,Ralf Schumacher,Toyota,2006,20,#D0103A
+145,barrichello,Rubens Barrichello,Honda,2006,30,#FFFFFF
+146,trulli,Jarno Trulli,Toyota,2006,15,#D0103A
+147,monteiro,Tiago Monteiro,MF1,2006,0,#333333
+148,sato,Takuma Sato,Super Aguri,2006,0,#CC0000
+149,ide,Yuji Ide,Super Aguri,2006,0,#CC0000
+150,villeneuve,Jacques Villeneuve,BMW Sauber,2006,7,#003366
+151,fisichella,Giancarlo Fisichella,Renault,2006,72,#FFD800
+152,albers,Christijan Albers,MF1,2006,0,#333333
+153,raikkonen,Kimi Raikkonen,Ferrari,2007,110,#DC0000
+154,alonso,Fernando Alonso,McLaren,2007,109,#FF8700
+155,hamilton,Lewis Hamilton,McLaren,2007,109,#FF8700
+156,heidfeld,Nick Heidfeld,BMW Sauber,2007,61,#003366
+157,fisichella,Giancarlo Fisichella,Renault,2007,21,#FFD800
+158,massa,Felipe Massa,Ferrari,2007,94,#DC0000
+159,rosberg,Nico Rosberg,Williams,2007,20,#005AFF
+160,ralf_schumacher,Ralf Schumacher,Toyota,2007,5,#D0103A
+161,trulli,Jarno Trulli,Toyota,2007,8,#D0103A
+162,kovalainen,Heikki Kovalainen,Renault,2007,30,#FFD800
+163,barrichello,Rubens Barrichello,Honda,2007,0,#FFFFFF
+164,sato,Takuma Sato,Super Aguri,2007,4,#CC0000
+165,webber,Mark Webber,Red Bull,2007,10,#1E41FF
+166,liuzzi,Vitantonio Liuzzi,Toro Rosso,2007,3,#0A0A8F
+167,button,Jenson Button,Honda,2007,6,#FFFFFF
+168,davidson,Anthony Davidson,Super Aguri,2007,0,#CC0000
+169,sutil,Adrian Sutil,Spyker,2007,1,#FF5F1F
+170,wurz,Alexander Wurz,Williams,2007,13,#005AFF
+171,coulthard,David Coulthard,Red Bull,2007,14,#1E41FF
+172,kubica,Robert Kubica,BMW Sauber,2007,39,#003366
+173,speed,Scott Speed,Toro Rosso,2007,0,#0A0A8F
+174,albers,Christijan Albers,Spyker,2007,0,#FF5F1F
+175,hamilton,Lewis Hamilton,McLaren,2008,98,#FF8700
+176,heidfeld,Nick Heidfeld,BMW Sauber,2008,60,#003366
+177,rosberg,Nico Rosberg,Williams,2008,17,#005AFF
+178,alonso,Fernando Alonso,Renault,2008,61,#FFD800
+179,kovalainen,Heikki Kovalainen,McLaren,2008,53,#FF8700
+180,nakajima,Kazuki Nakajima,Williams,2008,9,#005AFF
+181,bourdais,Sebastien Bourdais,Toro Rosso,2008,4,#0A0A8F
+182,raikkonen,Kimi Raikkonen,Ferrari,2008,75,#DC0000
+183,kubica,Robert Kubica,BMW Sauber,2008,75,#003366
+184,glock,Timo Glock,Toyota,2008,25,#D0103A
+185,sato,Takuma Sato,Super Aguri,2008,0,#CC0000
+186,piquet_jr,Nelson Piquet Jr.,Renault,2008,19,#FFD800
+187,massa,Felipe Massa,Ferrari,2008,97,#DC0000
+188,coulthard,David Coulthard,Red Bull,2008,8,#1E41FF
+189,trulli,Jarno Trulli,Toyota,2008,31,#D0103A
+190,sutil,Adrian Sutil,Force India,2008,0,#FF6C00
+191,webber,Mark Webber,Red Bull,2008,21,#1E41FF
+192,button,Jenson Button,Honda,2008,3,#FFFFFF
+193,davidson,Anthony Davidson,Super Aguri,2008,0,#CC0000
+194,vettel,Sebastian Vettel,Toro Rosso,2008,35,#0A0A8F
+195,fisichella,Giancarlo Fisichella,Force India,2008,0,#FF6C00
+196,barrichello,Rubens Barrichello,Honda,2008,11,#FFFFFF
+197,button,Jenson Button,Brawn,2009,95,#D5FF00
+198,barrichello,Rubens Barrichello,Brawn,2009,77,#D5FF00
+199,trulli,Jarno Trulli,Toyota,2009,32.5,#D0103A
+200,glock,Timo Glock,Toyota,2009,24,#D0103A
+201,alonso,Fernando Alonso,Renault,2009,26,#FFD800
+202,rosberg,Nico Rosberg,Williams,2009,34.5,#005AFF
+203,buemi,Sebastien Buemi,Toro Rosso,2009,6,#0A0A8F
+204,bourdais,Sebastien Bourdais,Toro Rosso,2009,2,#0A0A8F
+205,sutil,Adrian Sutil,Force India,2009,5,#FF6C00
+206,heidfeld,Nick Heidfeld,BMW Sauber,2009,19,#003366
+207,fisichella,Giancarlo Fisichella,Force India,2009,8,#FF6C00
+208,webber,Mark Webber,Red Bull,2009,69.5,#1E41FF
+209,vettel,Sebastian Vettel,Red Bull,2009,84,#1E41FF
+210,kubica,Robert Kubica,BMW Sauber,2009,17,#003366
+211,raikkonen,Kimi Raikkonen,Ferrari,2009,48,#DC0000
+212,massa,Felipe Massa,Ferrari,2009,22,#DC0000
+213,piquet_jr,Nelson Piquet Jr.,Renault,2009,0,#FFD800
+214,nakajima,Kazuki Nakajima,Williams,2009,0,#005AFF
+215,kovalainen,Heikki Kovalainen,McLaren,2009,22,#FF8700
+216,hamilton,Lewis Hamilton,McLaren,2009,49,#FF8700
+217,alonso,Fernando Alonso,Ferrari,2010,252,#DC0000
+218,massa,Felipe Massa,Ferrari,2010,144,#DC0000
+219,hamilton,Lewis Hamilton,McLaren,2010,240,#FF8700
+220,vettel,Sebastian Vettel,Red Bull,2010,256,#1E41FF
+221,rosberg,Nico Rosberg,Mercedes,2010,142,#00D2BE
+222,michael_schumacher,Michael Schumacher,Mercedes,2010,72,#00D2BE
+223,button,Jenson Button,McLaren,2010,214,#FF8700
+224,webber,Mark Webber,Red Bull,2010,242,#1E41FF
+225,liuzzi,Vitantonio Liuzzi,Force India,2010,21,#FF6C00
+226,barrichello,Rubens Barrichello,Williams,2010,47,#005AFF
+227,kubica,Robert Kubica,Renault,2010,136,#FFD800
+228,sutil,Adrian Sutil,Force India,2010,47,#FF6C00
+229,alguersuari,Jaime Alguersuari,Toro Rosso,2010,5,#0A0A8F
+230,hulkenberg,Nico Hulkenberg,Williams,2010,22,#005AFF
+231,kovalainen,Heikki Kovalainen,Lotus,2010,0,#006400
+232,buemi,Sebastien Buemi,Toro Rosso,2010,8,#0A0A8F
+233,trulli,Jarno Trulli,Lotus,2010,0,#006400
+234,rosa,Pedro de la Rosa,Sauber,2010,6,#006EFF
+235,bruno_senna,Bruno Senna,HRT,2010,0,#B4975A
+236,glock,Timo Glock,Virgin,2010,0,#CE0058
+237,petrov,Vitaly Petrov,Renault,2010,27,#FFD800
+238,kobayashi,Kamui Kobayashi,Sauber,2010,32,#006EFF
+239,grassi,Lucas di Grassi,Virgin,2010,0,#CE0058
+240,chandhok,Karun Chandhok,HRT,2010,0,#B4975A
+241,vettel,Sebastian Vettel,Red Bull,2011,392,#1E41FF
+242,hamilton,Lewis Hamilton,McLaren,2011,227,#FF8700
+243,petrov,Vitaly Petrov,Renault,2011,37,#FFD800
+244,alonso,Fernando Alonso,Ferrari,2011,257,#DC0000
+245,webber,Mark Webber,Red Bull,2011,258,#1E41FF
+246,button,Jenson Button,McLaren,2011,270,#FF8700
+247,massa,Felipe Massa,Ferrari,2011,118,#DC0000
+248,buemi,Sebastien Buemi,Toro Rosso,2011,15,#0A0A8F
+249,sutil,Adrian Sutil,Force India,2011,42,#FF6C00
+250,resta,Paul di Resta,Force India,2011,27,#FF6C00
+251,alguersuari,Jaime Alguersuari,Toro Rosso,2011,26,#0A0A8F
+252,heidfeld,Nick Heidfeld,Renault,2011,34,#FFD800
+253,trulli,Jarno Trulli,Lotus,2011,0,#006400
+254,ambrosio,Jerome d'Ambrosio,Virgin,2011,0,#CE0058
+255,glock,Timo Glock,Virgin,2011,0,#CE0058
+256,barrichello,Rubens Barrichello,Williams,2011,4,#005AFF
+257,rosberg,Nico Rosberg,Mercedes,2011,89,#00D2BE
+258,kovalainen,Heikki Kovalainen,Lotus,2011,0,#006400
+259,michael_schumacher,Michael Schumacher,Mercedes,2011,76,#00D2BE
+260,maldonado,Pastor Maldonado,Williams,2011,1,#005AFF
+261,kobayashi,Kamui Kobayashi,Sauber,2011,30,#006EFF
+262,perez,Sergio Perez,Sauber,2011,14,#006EFF
+263,liuzzi,Vitantonio Liuzzi,HRT,2011,0,#B4975A
+264,karthikeyan,Narain Karthikeyan,HRT,2011,0,#B4975A
+265,button,Jenson Button,McLaren,2012,188,#FF8700
+266,vettel,Sebastian Vettel,Red Bull,2012,281,#1E41FF
+267,hamilton,Lewis Hamilton,McLaren,2012,190,#FF8700
+268,webber,Mark Webber,Red Bull,2012,179,#1E41FF
+269,alonso,Fernando Alonso,Ferrari,2012,278,#DC0000
+270,kobayashi,Kamui Kobayashi,Sauber,2012,60,#006EFF
+271,raikkonen,Kimi Raikkonen,Lotus F1,2012,207,#006400
+272,perez,Sergio Perez,Sauber,2012,66,#006EFF
+273,ricciardo,Daniel Ricciardo,Toro Rosso,2012,10,#0A0A8F
+274,resta,Paul di Resta,Force India,2012,46,#FF6C00
+275,vergne,Jean-Eric Vergne,Toro Rosso,2012,16,#0A0A8F
+276,rosberg,Nico Rosberg,Mercedes,2012,93,#00D2BE
+277,maldonado,Pastor Maldonado,Williams,2012,45,#005AFF
+278,glock,Timo Glock,Marussia,2012,0,#E80020
+279,pic,Charles Pic,Marussia,2012,0,#E80020
+280,bruno_senna,Bruno Senna,Williams,2012,31,#005AFF
+281,massa,Felipe Massa,Ferrari,2012,122,#DC0000
+282,kovalainen,Heikki Kovalainen,Caterham,2012,0,#003B2F
+283,petrov,Vitaly Petrov,Caterham,2012,0,#003B2F
+284,michael_schumacher,Michael Schumacher,Mercedes,2012,49,#00D2BE
+285,grosjean,Romain Grosjean,Lotus F1,2012,96,#006400
+286,hulkenberg,Nico Hulkenberg,Force India,2012,63,#FF6C00
+287,rosa,Pedro de la Rosa,HRT,2012,0,#B4975A
+288,karthikeyan,Narain Karthikeyan,HRT,2012,0,#B4975A
+289,raikkonen,Kimi Raikkonen,Lotus F1,2013,183,#006400
+290,alonso,Fernando Alonso,Ferrari,2013,242,#DC0000
+291,vettel,Sebastian Vettel,Red Bull,2013,397,#1E41FF
+292,massa,Felipe Massa,Ferrari,2013,112,#DC0000
+293,hamilton,Lewis Hamilton,Mercedes,2013,189,#00D2BE
+294,webber,Mark Webber,Red Bull,2013,199,#1E41FF
+295,sutil,Adrian Sutil,Force India,2013,29,#FF6C00
+296,resta,Paul di Resta,Force India,2013,48,#FF6C00
+297,button,Jenson Button,McLaren,2013,73,#FF8700
+298,grosjean,Romain Grosjean,Lotus F1,2013,132,#006400
+299,perez,Sergio Perez,McLaren,2013,49,#FF8700
+300,vergne,Jean-Eric Vergne,Toro Rosso,2013,13,#0A0A8F
+301,gutierrez,Esteban Gutierrez,Sauber,2013,6,#006EFF
+302,bottas,Valtteri Bottas,Williams,2013,4,#005AFF
+303,jules_bianchi,Jules Bianchi,Marussia,2013,0,#E80020
+304,pic,Charles Pic,Caterham,2013,0,#003B2F
+305,chilton,Max Chilton,Marussia,2013,0,#E80020
+306,garde,Giedo van der Garde,Caterham,2013,0,#003B2F
+307,ricciardo,Daniel Ricciardo,Toro Rosso,2013,20,#0A0A8F
+308,rosberg,Nico Rosberg,Mercedes,2013,171,#00D2BE
+309,maldonado,Pastor Maldonado,Williams,2013,1,#005AFF
+310,hulkenberg,Nico Hulkenberg,Sauber,2013,51,#006EFF
+311,rosberg,Nico Rosberg,Mercedes,2014,317,#00D2BE
+312,kevin_magnussen,Kevin Magnussen,McLaren,2014,55,#FF8700
+313,button,Jenson Button,McLaren,2014,126,#FF8700
+314,alonso,Fernando Alonso,Ferrari,2014,161,#DC0000
+315,bottas,Valtteri Bottas,Williams,2014,186,#005AFF
+316,hulkenberg,Nico Hulkenberg,Force India,2014,96,#FF6C00
+317,raikkonen,Kimi Raikkonen,Ferrari,2014,55,#DC0000
+318,vergne,Jean-Eric Vergne,Toro Rosso,2014,22,#0A0A8F
+319,kvyat,Daniil Kvyat,Toro Rosso,2014,8,#0A0A8F
+320,perez,Sergio Perez,Force India,2014,59,#FF6C00
+321,sutil,Adrian Sutil,Sauber,2014,0,#006EFF
+322,gutierrez,Esteban Gutierrez,Sauber,2014,0,#006EFF
+323,chilton,Max Chilton,Marussia,2014,0,#E80020
+324,jules_bianchi,Jules Bianchi,Marussia,2014,2,#E80020
+325,grosjean,Romain Grosjean,Lotus F1,2014,8,#006400
+326,maldonado,Pastor Maldonado,Lotus F1,2014,2,#006400
+327,ericsson,Marcus Ericsson,Caterham,2014,0,#003B2F
+328,vettel,Sebastian Vettel,Red Bull,2014,167,#1E41FF
+329,hamilton,Lewis Hamilton,Mercedes,2014,384,#00D2BE
+330,massa,Felipe Massa,Williams,2014,134,#005AFF
+331,kobayashi,Kamui Kobayashi,Caterham,2014,0,#003B2F
+332,ricciardo,Daniel Ricciardo,Red Bull,2014,238,#1E41FF
+333,hamilton,Lewis Hamilton,Mercedes,2015,381,#00D2BE
+334,rosberg,Nico Rosberg,Mercedes,2015,322,#00D2BE
+335,vettel,Sebastian Vettel,Ferrari,2015,278,#DC0000
+336,massa,Felipe Massa,Williams,2015,121,#005AFF
+337,nasr,Felipe Nasr,Sauber,2015,27,#006EFF
+338,ricciardo,Daniel Ricciardo,Red Bull,2015,92,#1E41FF
+339,hulkenberg,Nico Hulkenberg,Force India,2015,58,#FF6C00
+340,ericsson,Marcus Ericsson,Sauber,2015,9,#006EFF
+341,sainz,Carlos Sainz,Toro Rosso,2015,18,#0A0A8F
+342,perez,Sergio Perez,Force India,2015,78,#FF6C00
+343,button,Jenson Button,McLaren,2015,16,#FF8700
+344,raikkonen,Kimi Raikkonen,Ferrari,2015,150,#DC0000
+345,max_verstappen,Max Verstappen,Toro Rosso,2015,49,#0A0A8F
+346,grosjean,Romain Grosjean,Lotus F1,2015,51,#006400
+347,maldonado,Pastor Maldonado,Lotus F1,2015,27,#006400
+348,kvyat,Daniil Kvyat,Red Bull,2015,95,#1E41FF
+349,kevin_magnussen,Kevin Magnussen,McLaren,2015,0,#FF8700
+350,bottas,Valtteri Bottas,Williams,2015,136,#005AFF
+351,merhi,Roberto Merhi,Manor Marussia,2015,0,#E80020
+352,alonso,Fernando Alonso,McLaren,2015,11,#FF8700
+353,stevens,Will Stevens,Manor Marussia,2015,0,#E80020
+354,rosberg,Nico Rosberg,Mercedes,2016,385,#00D2BE
+355,hamilton,Lewis Hamilton,Mercedes,2016,380,#00D2BE
+356,vettel,Sebastian Vettel,Ferrari,2016,212,#DC0000
+357,ricciardo,Daniel Ricciardo,Red Bull,2016,256,#1E41FF
+358,massa,Felipe Massa,Williams,2016,53,#005AFF
+359,grosjean,Romain Grosjean,Haas F1 Team,2016,29,#B6BABD
+360,hulkenberg,Nico Hulkenberg,Force India,2016,72,#FF6C00
+361,bottas,Valtteri Bottas,Williams,2016,85,#005AFF
+362,sainz,Carlos Sainz,Toro Rosso,2016,46,#0A0A8F
+363,max_verstappen,Max Verstappen,Toro Rosso,2016,204,#0A0A8F
+364,jolyon_palmer,Jolyon Palmer,Renault,2016,1,#FFD800
+365,kevin_magnussen,Kevin Magnussen,Renault,2016,7,#FFD800
+366,perez,Sergio Perez,Force India,2016,101,#FF6C00
+367,button,Jenson Button,McLaren,2016,21,#FF8700
+368,nasr,Felipe Nasr,Sauber,2016,2,#006EFF
+369,wehrlein,Pascal Wehrlein,Manor Marussia,2016,1,#E80020
+370,ericsson,Marcus Ericsson,Sauber,2016,0,#006EFF
+371,raikkonen,Kimi Raikkonen,Ferrari,2016,186,#DC0000
+372,haryanto,Rio Haryanto,Manor Marussia,2016,0,#E80020
+373,gutierrez,Esteban Gutierrez,Haas F1 Team,2016,0,#B6BABD
+374,alonso,Fernando Alonso,McLaren,2016,54,#FF8700
+375,kvyat,Daniil Kvyat,Red Bull,2016,25,#1E41FF
+376,vandoorne,Stoffel Vandoorne,McLaren,2016,1,#FF8700
+377,max_verstappen,Max Verstappen,Red Bull,2016,204,#1E41FF
+378,kvyat,Daniil Kvyat,Toro Rosso,2016,25,#0A0A8F
+379,vettel,Sebastian Vettel,Ferrari,2017,317,#DC0000
+380,hamilton,Lewis Hamilton,Mercedes,2017,363,#00D2BE
+381,bottas,Valtteri Bottas,Mercedes,2017,305,#00D2BE
+382,raikkonen,Kimi Raikkonen,Ferrari,2017,205,#DC0000
+383,max_verstappen,Max Verstappen,Red Bull,2017,168,#1E41FF
+384,massa,Felipe Massa,Williams,2017,43,#005AFF
+385,perez,Sergio Perez,Force India,2017,100,#FF6C00
+386,sainz,Carlos Sainz,Toro Rosso,2017,54,#0A0A8F
+387,kvyat,Daniil Kvyat,Toro Rosso,2017,5,#0A0A8F
+388,ocon,Esteban Ocon,Force India,2017,87,#FF6C00
+389,hulkenberg,Nico Hulkenberg,Renault,2017,43,#FFD800
+390,giovinazzi,Antonio Giovinazzi,Sauber,2017,0,#006EFF
+391,vandoorne,Stoffel Vandoorne,McLaren,2017,13,#FF8700
+392,alonso,Fernando Alonso,McLaren,2017,17,#FF8700
+393,kevin_magnussen,Kevin Magnussen,Haas F1 Team,2017,19,#B6BABD
+394,stroll,Lance Stroll,Williams,2017,40,#005AFF
+395,ricciardo,Daniel Ricciardo,Red Bull,2017,200,#1E41FF
+396,ericsson,Marcus Ericsson,Sauber,2017,0,#006EFF
+397,jolyon_palmer,Jolyon Palmer,Renault,2017,8,#FFD800
+398,grosjean,Romain Grosjean,Haas F1 Team,2017,28,#B6BABD
+399,wehrlein,Pascal Wehrlein,Sauber,2017,5,#006EFF
+400,vettel,Sebastian Vettel,Ferrari,2018,320,#DC0000
+401,hamilton,Lewis Hamilton,Mercedes,2018,408,#00D2BE
+402,raikkonen,Kimi Raikkonen,Ferrari,2018,251,#DC0000
+403,ricciardo,Daniel Ricciardo,Red Bull,2018,170,#1E41FF
+404,alonso,Fernando Alonso,McLaren,2018,50,#FF8700
+405,max_verstappen,Max Verstappen,Red Bull,2018,249,#1E41FF
+406,hulkenberg,Nico Hulkenberg,Renault,2018,69,#FFD800
+407,bottas,Valtteri Bottas,Mercedes,2018,247,#00D2BE
+408,vandoorne,Stoffel Vandoorne,McLaren,2018,12,#FF8700
+409,sainz,Carlos Sainz,Renault,2018,53,#FFD800
+410,perez,Sergio Perez,Force India,2018,62,#FF6C00
+411,ocon,Esteban Ocon,Force India,2018,49,#FF6C00
+412,leclerc,Charles Leclerc,Sauber,2018,39,#006EFF
+413,stroll,Lance Stroll,Williams,2018,6,#005AFF
+414,brendon_hartley,Brendon Hartley,Toro Rosso,2018,4,#0A0A8F
+415,grosjean,Romain Grosjean,Haas F1 Team,2018,37,#B6BABD
+416,kevin_magnussen,Kevin Magnussen,Haas F1 Team,2018,56,#B6BABD
+417,gasly,Pierre Gasly,Toro Rosso,2018,29,#0A0A8F
+418,ericsson,Marcus Ericsson,Sauber,2018,9,#006EFF
+419,sirotkin,Sergey Sirotkin,Williams,2018,1,#005AFF
+420,bottas,Valtteri Bottas,Mercedes,2019,326,#00D2BE
+421,hamilton,Lewis Hamilton,Mercedes,2019,413,#00D2BE
+422,max_verstappen,Max Verstappen,Red Bull,2019,278,#1E41FF
+423,vettel,Sebastian Vettel,Ferrari,2019,240,#DC0000
+424,leclerc,Charles Leclerc,Ferrari,2019,264,#DC0000
+425,kevin_magnussen,Kevin Magnussen,Haas F1 Team,2019,20,#B6BABD
+426,hulkenberg,Nico Hulkenberg,Renault,2019,37,#FFD800
+427,raikkonen,Kimi Raikkonen,Alfa Romeo,2019,43,#981E32
+428,stroll,Lance Stroll,Racing Point,2019,21,#F596C8
+429,kvyat,Daniil Kvyat,Toro Rosso,2019,37,#0A0A8F
+430,gasly,Pierre Gasly,Red Bull,2019,95,#1E41FF
+431,norris,Lando Norris,McLaren,2019,49,#FF8700
+432,perez,Sergio Perez,Racing Point,2019,52,#F596C8
+433,albon,Alexander Albon,Toro Rosso,2019,92,#0A0A8F
+434,giovinazzi,Antonio Giovinazzi,Alfa Romeo,2019,14,#981E32
+435,russell,George Russell,Williams,2019,0,#005AFF
+436,kubica,Robert Kubica,Williams,2019,1,#005AFF
+437,grosjean,Romain Grosjean,Haas F1 Team,2019,8,#B6BABD
+438,ricciardo,Daniel Ricciardo,Renault,2019,54,#FFD800
+439,sainz,Carlos Sainz,McLaren,2019,96,#FF8700
+440,bottas,Valtteri Bottas,Mercedes,2020,223,#00D2BE
+441,leclerc,Charles Leclerc,Ferrari,2020,98,#DC0000
+442,norris,Lando Norris,McLaren,2020,97,#FF8700
+443,hamilton,Lewis Hamilton,Mercedes,2020,347,#00D2BE
+444,sainz,Carlos Sainz,McLaren,2020,105,#FF8700
+445,perez,Sergio Perez,Racing Point,2020,125,#F596C8
+446,gasly,Pierre Gasly,AlphaTauri,2020,75,#2B2D42
+447,ocon,Esteban Ocon,Renault,2020,62,#FFD800
+448,giovinazzi,Antonio Giovinazzi,Alfa Romeo,2020,4,#981E32
+449,vettel,Sebastian Vettel,Ferrari,2020,33,#DC0000
+450,latifi,Nicholas Latifi,Williams,2020,0,#005AFF
+451,kvyat,Daniil Kvyat,AlphaTauri,2020,32,#2B2D42
+452,albon,Alexander Albon,Red Bull,2020,105,#1E41FF
+453,raikkonen,Kimi Raikkonen,Alfa Romeo,2020,4,#981E32
+454,russell,George Russell,Williams,2020,3,#005AFF
+455,grosjean,Romain Grosjean,Haas F1 Team,2020,2,#B6BABD
+456,kevin_magnussen,Kevin Magnussen,Haas F1 Team,2020,1,#B6BABD
+457,stroll,Lance Stroll,Racing Point,2020,75,#F596C8
+458,ricciardo,Daniel Ricciardo,Renault,2020,119,#FFD800
+459,max_verstappen,Max Verstappen,Red Bull,2020,214,#1E41FF
+460,hulkenberg,Nico Hulkenberg,Racing Point,2020,10,#F596C8
+461,hamilton,Lewis Hamilton,Mercedes,2021,387.5,#00D2BE
+462,max_verstappen,Max Verstappen,Red Bull,2021,395.5,#1E41FF
+463,bottas,Valtteri Bottas,Mercedes,2021,226,#00D2BE
+464,norris,Lando Norris,McLaren,2021,160,#FF8700
+465,perez,Sergio Perez,Red Bull,2021,190,#1E41FF
+466,leclerc,Charles Leclerc,Ferrari,2021,159,#DC0000
+467,ricciardo,Daniel Ricciardo,McLaren,2021,115,#FF8700
+468,sainz,Carlos Sainz,Ferrari,2021,164.5,#DC0000
+469,tsunoda,Yuki Tsunoda,AlphaTauri,2021,32,#2B2D42
+470,stroll,Lance Stroll,Aston Martin,2021,34,#00665E
+471,raikkonen,Kimi Raikkonen,Alfa Romeo,2021,10,#981E32
+472,giovinazzi,Antonio Giovinazzi,Alfa Romeo,2021,3,#981E32
+473,ocon,Esteban Ocon,Alpine F1 Team,2021,74,#0090FF
+474,russell,George Russell,Williams,2021,16,#005AFF
+475,vettel,Sebastian Vettel,Aston Martin,2021,43,#00665E
+476,mick_schumacher,Mick Schumacher,Haas F1 Team,2021,0,#B6BABD
+477,gasly,Pierre Gasly,AlphaTauri,2021,110,#2B2D42
+478,latifi,Nicholas Latifi,Williams,2021,7,#005AFF
+479,alonso,Fernando Alonso,Alpine F1 Team,2021,81,#0090FF
+480,mazepin,Nikita Mazepin,Haas F1 Team,2021,0,#B6BABD
+481,leclerc,Charles Leclerc,Ferrari,2022,308,#DC0000
+482,sainz,Carlos Sainz,Ferrari,2022,246,#DC0000
+483,hamilton,Lewis Hamilton,Mercedes,2022,240,#00D2BE
+484,russell,George Russell,Mercedes,2022,275,#00D2BE
+485,kevin_magnussen,Kevin Magnussen,Haas F1 Team,2022,25,#B6BABD
+486,bottas,Valtteri Bottas,Alfa Romeo,2022,49,#981E32
+487,ocon,Esteban Ocon,Alpine F1 Team,2022,92,#0090FF
+488,tsunoda,Yuki Tsunoda,AlphaTauri,2022,12,#2B2D42
+489,alonso,Fernando Alonso,Alpine F1 Team,2022,81,#0090FF
+490,zhou,Guanyu Zhou,Alfa Romeo,2022,6,#981E32
+491,mick_schumacher,Mick Schumacher,Haas F1 Team,2022,12,#B6BABD
+492,stroll,Lance Stroll,Aston Martin,2022,18,#00665E
+493,albon,Alexander Albon,Williams,2022,4,#005AFF
+494,ricciardo,Daniel Ricciardo,McLaren,2022,37,#FF8700
+495,norris,Lando Norris,McLaren,2022,122,#FF8700
+496,latifi,Nicholas Latifi,Williams,2022,2,#005AFF
+497,hulkenberg,Nico Hulkenberg,Aston Martin,2022,0,#00665E
+498,perez,Sergio Perez,Red Bull,2022,305,#1E41FF
+499,max_verstappen,Max Verstappen,Red Bull,2022,454,#1E41FF
+500,gasly,Pierre Gasly,AlphaTauri,2022,23,#2B2D42
+501,vettel,Sebastian Vettel,Aston Martin,2022,37,#00665E
+502,max_verstappen,Max Verstappen,Red Bull,2023,575,#1E41FF
+503,perez,Sergio Perez,Red Bull,2023,285,#1E41FF
+504,alonso,Fernando Alonso,Aston Martin,2023,206,#00665E
+505,sainz,Carlos Sainz,Ferrari,2023,200,#DC0000
+506,hamilton,Lewis Hamilton,Mercedes,2023,234,#00D2BE
+507,stroll,Lance Stroll,Aston Martin,2023,74,#00665E
+508,russell,George Russell,Mercedes,2023,175,#00D2BE
+509,bottas,Valtteri Bottas,Alfa Romeo,2023,10,#981E32
+510,gasly,Pierre Gasly,Alpine F1 Team,2023,62,#0090FF
+511,albon,Alexander Albon,Williams,2023,27,#005AFF
+512,tsunoda,Yuki Tsunoda,AlphaTauri,2023,17,#2B2D42
+513,sargeant,Logan Sargeant,Williams,2023,1,#005AFF
+514,kevin_magnussen,Kevin Magnussen,Haas F1 Team,2023,3,#B6BABD
+515,de_vries,Nyck de Vries,AlphaTauri,2023,0,#2B2D42
+516,hulkenberg,Nico Hulkenberg,Haas F1 Team,2023,9,#B6BABD
+517,zhou,Guanyu Zhou,Alfa Romeo,2023,6,#981E32
+518,norris,Lando Norris,McLaren,2023,205,#FF8700
+519,ocon,Esteban Ocon,Alpine F1 Team,2023,58,#0090FF
+520,leclerc,Charles Leclerc,Ferrari,2023,206,#DC0000
+521,piastri,Oscar Piastri,McLaren,2023,97,#FF8700
+522,max_verstappen,Max Verstappen,Red Bull,2024,437,#1E41FF
+523,perez,Sergio Perez,Red Bull,2024,152,#1E41FF
+524,sainz,Carlos Sainz,Ferrari,2024,290,#DC0000
+525,leclerc,Charles Leclerc,Ferrari,2024,356,#DC0000
+526,russell,George Russell,Mercedes,2024,245,#00D2BE
+527,norris,Lando Norris,McLaren,2024,374,#FF8700
+528,hamilton,Lewis Hamilton,Mercedes,2024,223,#00D2BE
+529,piastri,Oscar Piastri,McLaren,2024,292,#FF8700
+530,alonso,Fernando Alonso,Aston Martin,2024,70,#00665E
+531,stroll,Lance Stroll,Aston Martin,2024,24,#00665E
+532,zhou,Guanyu Zhou,Sauber,2024,4,#006EFF
+533,kevin_magnussen,Kevin Magnussen,Haas F1 Team,2024,16,#B6BABD
+534,ricciardo,Daniel Ricciardo,RB F1 Team,2024,12,#14213D
+535,tsunoda,Yuki Tsunoda,RB F1 Team,2024,30,#14213D
+536,albon,Alexander Albon,Williams,2024,12,#005AFF
+537,hulkenberg,Nico Hulkenberg,Haas F1 Team,2024,41,#B6BABD
+538,ocon,Esteban Ocon,Alpine F1 Team,2024,23,#0090FF
+539,gasly,Pierre Gasly,Alpine F1 Team,2024,42,#0090FF
+540,bottas,Valtteri Bottas,Sauber,2024,0,#006EFF
+541,sargeant,Logan Sargeant,Williams,2024,0,#005AFF
+542,bearman,Oliver Bearman,Ferrari,2024,7,#DC0000

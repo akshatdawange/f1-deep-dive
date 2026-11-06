@@ -1,0 +1,523 @@
+,driverId,driverName,constructor,year
+0,michael_schumacher,Michael Schumacher,Ferrari,2000
+1,barrichello,Rubens Barrichello,Ferrari,2000
+2,ralf_schumacher,Ralf Schumacher,Williams,2000
+3,villeneuve,Jacques Villeneuve,BAR,2000
+4,fisichella,Giancarlo Fisichella,Benetton,2000
+5,zonta,Ricardo Zonta,BAR,2000
+6,wurz,Alexander Wurz,Benetton,2000
+7,gene,Marc Gene,Minardi,2000
+8,heidfeld,Nick Heidfeld,Prost,2000
+9,salo,Mika Salo,Sauber,2000
+10,button,Jenson Button,Williams,2000
+11,diniz,Pedro Diniz,Sauber,2000
+12,mazzacane,Gaston Mazzacane,Minardi,2000
+13,frentzen,Heinz-Harald Frentzen,Jordan,2000
+14,trulli,Jarno Trulli,Jordan,2000
+15,alesi,Jean Alesi,Prost,2000
+16,hakkinen,Mika Hakkinen,McLaren,2000
+17,verstappen,Jos Verstappen,Arrows,2000
+18,coulthard,David Coulthard,McLaren,2000
+19,rosa,Pedro de la Rosa,Arrows,2000
+20,irvine,Eddie Irvine,Jaguar,2000
+21,herbert,Johnny Herbert,Jaguar,2000
+100,michael_schumacher,Michael Schumacher,Ferrari,2001
+101,coulthard,David Coulthard,McLaren,2001
+102,barrichello,Rubens Barrichello,Ferrari,2001
+103,heidfeld,Nick Heidfeld,Sauber,2001
+104,frentzen,Heinz-Harald Frentzen,Jordan,2001
+105,raikkonen,Kimi Raikkonen,Sauber,2001
+106,panis,Olivier Panis,BAR,2001
+107,burti,Luciano Burti,Jaguar,2001
+108,alesi,Jean Alesi,Prost,2001
+109,verstappen,Jos Verstappen,Arrows,2001
+110,irvine,Eddie Irvine,Jaguar,2001
+111,alonso,Fernando Alonso,Minardi,2001
+112,fisichella,Giancarlo Fisichella,Benetton,2001
+113,button,Jenson Button,Benetton,2001
+114,montoya,Juan Pablo Montoya,Williams,2001
+115,trulli,Jarno Trulli,Jordan,2001
+116,hakkinen,Mika Hakkinen,McLaren,2001
+117,ralf_schumacher,Ralf Schumacher,Williams,2001
+118,villeneuve,Jacques Villeneuve,BAR,2001
+119,marques,Tarso Marques,Minardi,2001
+120,bernoldi,Enrique Bernoldi,Arrows,2001
+121,mazzacane,Gaston Mazzacane,Prost,2001
+198,burti,Luciano Burti,Prost,2001
+200,michael_schumacher,Michael Schumacher,Ferrari,2002
+201,montoya,Juan Pablo Montoya,Williams,2002
+202,raikkonen,Kimi Raikkonen,McLaren,2002
+203,irvine,Eddie Irvine,Jaguar,2002
+204,webber,Mark Webber,Minardi,2002
+205,salo,Mika Salo,Toyota,2002
+206,yoong,Alex Yoong,Minardi,2002
+207,rosa,Pedro de la Rosa,Jaguar,2002
+208,coulthard,David Coulthard,McLaren,2002
+209,villeneuve,Jacques Villeneuve,BAR,2002
+210,frentzen,Heinz-Harald Frentzen,Arrows,2002
+211,bernoldi,Enrique Bernoldi,Arrows,2002
+212,sato,Takuma Sato,Jordan,2002
+213,trulli,Jarno Trulli,Renault,2002
+214,barrichello,Rubens Barrichello,Ferrari,2002
+215,ralf_schumacher,Ralf Schumacher,Williams,2002
+216,fisichella,Giancarlo Fisichella,Jordan,2002
+217,massa,Felipe Massa,Sauber,2002
+218,heidfeld,Nick Heidfeld,Sauber,2002
+219,button,Jenson Button,Renault,2002
+220,panis,Olivier Panis,BAR,2002
+221,mcnish,Allan McNish,Toyota,2002
+300,coulthard,David Coulthard,McLaren,2003
+301,montoya,Juan Pablo Montoya,Williams,2003
+302,raikkonen,Kimi Raikkonen,McLaren,2003
+303,michael_schumacher,Michael Schumacher,Ferrari,2003
+304,trulli,Jarno Trulli,Renault,2003
+305,frentzen,Heinz-Harald Frentzen,Sauber,2003
+306,alonso,Fernando Alonso,Renault,2003
+307,ralf_schumacher,Ralf Schumacher,Williams,2003
+308,villeneuve,Jacques Villeneuve,BAR,2003
+309,button,Jenson Button,BAR,2003
+310,verstappen,Jos Verstappen,Minardi,2003
+311,fisichella,Giancarlo Fisichella,Jordan,2003
+312,pizzonia,Antonio Pizzonia,Jaguar,2003
+313,panis,Olivier Panis,Toyota,2003
+314,heidfeld,Nick Heidfeld,Sauber,2003
+315,wilson,Justin Wilson,Minardi,2003
+316,webber,Mark Webber,Jaguar,2003
+317,matta,Cristiano da Matta,Toyota,2003
+318,firman,Ralph Firman,Jordan,2003
+319,barrichello,Rubens Barrichello,Ferrari,2003
+400,michael_schumacher,Michael Schumacher,Ferrari,2004
+401,barrichello,Rubens Barrichello,Ferrari,2004
+402,alonso,Fernando Alonso,Renault,2004
+403,ralf_schumacher,Ralf Schumacher,Williams,2004
+404,montoya,Juan Pablo Montoya,Williams,2004
+405,button,Jenson Button,BAR,2004
+406,trulli,Jarno Trulli,Renault,2004
+407,coulthard,David Coulthard,McLaren,2004
+408,sato,Takuma Sato,BAR,2004
+409,fisichella,Giancarlo Fisichella,Sauber,2004
+410,klien,Christian Klien,Jaguar,2004
+411,matta,Cristiano da Matta,Toyota,2004
+412,panis,Olivier Panis,Toyota,2004
+413,pantano,Giorgio Pantano,Jordan,2004
+414,massa,Felipe Massa,Sauber,2004
+415,heidfeld,Nick Heidfeld,Jordan,2004
+416,bruni,Gianmaria Bruni,Minardi,2004
+417,webber,Mark Webber,Jaguar,2004
+418,baumgartner,Zsolt Baumgartner,Minardi,2004
+419,raikkonen,Kimi Raikkonen,McLaren,2004
+500,fisichella,Giancarlo Fisichella,Renault,2005
+501,barrichello,Rubens Barrichello,Ferrari,2005
+502,alonso,Fernando Alonso,Renault,2005
+503,coulthard,David Coulthard,Red Bull,2005
+504,webber,Mark Webber,Williams,2005
+505,montoya,Juan Pablo Montoya,McLaren,2005
+506,klien,Christian Klien,Red Bull,2005
+507,raikkonen,Kimi Raikkonen,McLaren,2005
+508,trulli,Jarno Trulli,Toyota,2005
+509,massa,Felipe Massa,Sauber,2005
+510,button,Jenson Button,BAR,2005
+511,ralf_schumacher,Ralf Schumacher,Toyota,2005
+512,villeneuve,Jacques Villeneuve,Sauber,2005
+513,sato,Takuma Sato,BAR,2005
+514,karthikeyan,Narain Karthikeyan,Jordan,2005
+515,monteiro,Tiago Monteiro,Jordan,2005
+516,friesacher,Patrick Friesacher,Minardi,2005
+517,michael_schumacher,Michael Schumacher,Ferrari,2005
+518,heidfeld,Nick Heidfeld,Williams,2005
+519,albers,Christijan Albers,Minardi,2005
+538,davidson,Anthony Davidson,BAR,2005
+544,rosa,Pedro de la Rosa,McLaren,2005
+562,wurz,Alexander Wurz,McLaren,2005
+567,liuzzi,Vitantonio Liuzzi,Red Bull,2005
+600,alonso,Fernando Alonso,Renault,2006
+601,michael_schumacher,Michael Schumacher,Ferrari,2006
+602,raikkonen,Kimi Raikkonen,McLaren,2006
+603,button,Jenson Button,Honda,2006
+604,montoya,Juan Pablo Montoya,McLaren,2006
+605,webber,Mark Webber,Williams,2006
+606,rosberg,Nico Rosberg,Williams,2006
+607,klien,Christian Klien,Red Bull,2006
+608,massa,Felipe Massa,Ferrari,2006
+609,coulthard,David Coulthard,Red Bull,2006
+610,liuzzi,Vitantonio Liuzzi,Toro Rosso,2006
+611,heidfeld,Nick Heidfeld,BMW Sauber,2006
+612,speed,Scott Speed,Toro Rosso,2006
+613,ralf_schumacher,Ralf Schumacher,Toyota,2006
+614,barrichello,Rubens Barrichello,Honda,2006
+615,trulli,Jarno Trulli,Toyota,2006
+616,monteiro,Tiago Monteiro,MF1,2006
+617,sato,Takuma Sato,Super Aguri,2006
+618,ide,Yuji Ide,Super Aguri,2006
+619,villeneuve,Jacques Villeneuve,BMW Sauber,2006
+620,fisichella,Giancarlo Fisichella,Renault,2006
+621,albers,Christijan Albers,MF1,2006
+700,raikkonen,Kimi Raikkonen,Ferrari,2007
+701,alonso,Fernando Alonso,McLaren,2007
+702,hamilton,Lewis Hamilton,McLaren,2007
+703,heidfeld,Nick Heidfeld,BMW Sauber,2007
+704,fisichella,Giancarlo Fisichella,Renault,2007
+705,massa,Felipe Massa,Ferrari,2007
+706,rosberg,Nico Rosberg,Williams,2007
+707,ralf_schumacher,Ralf Schumacher,Toyota,2007
+708,trulli,Jarno Trulli,Toyota,2007
+709,kovalainen,Heikki Kovalainen,Renault,2007
+710,barrichello,Rubens Barrichello,Honda,2007
+711,sato,Takuma Sato,Super Aguri,2007
+712,webber,Mark Webber,Red Bull,2007
+713,liuzzi,Vitantonio Liuzzi,Toro Rosso,2007
+714,button,Jenson Button,Honda,2007
+715,davidson,Anthony Davidson,Super Aguri,2007
+716,sutil,Adrian Sutil,Spyker,2007
+717,wurz,Alexander Wurz,Williams,2007
+718,coulthard,David Coulthard,Red Bull,2007
+719,kubica,Robert Kubica,BMW Sauber,2007
+720,speed,Scott Speed,Toro Rosso,2007
+721,albers,Christijan Albers,Spyker,2007
+800,hamilton,Lewis Hamilton,McLaren,2008
+801,heidfeld,Nick Heidfeld,BMW Sauber,2008
+802,rosberg,Nico Rosberg,Williams,2008
+803,alonso,Fernando Alonso,Renault,2008
+804,kovalainen,Heikki Kovalainen,McLaren,2008
+805,nakajima,Kazuki Nakajima,Williams,2008
+806,bourdais,Sebastien Bourdais,Toro Rosso,2008
+807,raikkonen,Kimi Raikkonen,Ferrari,2008
+808,kubica,Robert Kubica,BMW Sauber,2008
+809,glock,Timo Glock,Toyota,2008
+810,sato,Takuma Sato,Super Aguri,2008
+811,piquet_jr,Nelson Piquet Jr.,Renault,2008
+812,massa,Felipe Massa,Ferrari,2008
+813,coulthard,David Coulthard,Red Bull,2008
+814,trulli,Jarno Trulli,Toyota,2008
+815,sutil,Adrian Sutil,Force India,2008
+816,webber,Mark Webber,Red Bull,2008
+817,button,Jenson Button,Honda,2008
+818,davidson,Anthony Davidson,Super Aguri,2008
+819,vettel,Sebastian Vettel,Toro Rosso,2008
+820,fisichella,Giancarlo Fisichella,Force India,2008
+821,barrichello,Rubens Barrichello,Honda,2008
+900,button,Jenson Button,Brawn,2009
+901,barrichello,Rubens Barrichello,Brawn,2009
+902,trulli,Jarno Trulli,Toyota,2009
+903,glock,Timo Glock,Toyota,2009
+904,alonso,Fernando Alonso,Renault,2009
+905,rosberg,Nico Rosberg,Williams,2009
+906,buemi,Sebastien Buemi,Toro Rosso,2009
+907,bourdais,Sebastien Bourdais,Toro Rosso,2009
+908,sutil,Adrian Sutil,Force India,2009
+909,heidfeld,Nick Heidfeld,BMW Sauber,2009
+910,fisichella,Giancarlo Fisichella,Force India,2009
+911,webber,Mark Webber,Red Bull,2009
+912,vettel,Sebastian Vettel,Red Bull,2009
+913,kubica,Robert Kubica,BMW Sauber,2009
+914,raikkonen,Kimi Raikkonen,Ferrari,2009
+915,massa,Felipe Massa,Ferrari,2009
+916,piquet_jr,Nelson Piquet Jr.,Renault,2009
+917,nakajima,Kazuki Nakajima,Williams,2009
+918,kovalainen,Heikki Kovalainen,McLaren,2009
+919,hamilton,Lewis Hamilton,McLaren,2009
+1000,alonso,Fernando Alonso,Ferrari,2010
+1001,massa,Felipe Massa,Ferrari,2010
+1002,hamilton,Lewis Hamilton,McLaren,2010
+1003,vettel,Sebastian Vettel,Red Bull,2010
+1004,rosberg,Nico Rosberg,Mercedes,2010
+1005,michael_schumacher,Michael Schumacher,Mercedes,2010
+1006,button,Jenson Button,McLaren,2010
+1007,webber,Mark Webber,Red Bull,2010
+1008,liuzzi,Vitantonio Liuzzi,Force India,2010
+1009,barrichello,Rubens Barrichello,Williams,2010
+1010,kubica,Robert Kubica,Renault,2010
+1011,sutil,Adrian Sutil,Force India,2010
+1012,alguersuari,Jaime Alguersuari,Toro Rosso,2010
+1013,hulkenberg,Nico Hulkenberg,Williams,2010
+1014,kovalainen,Heikki Kovalainen,Lotus,2010
+1015,buemi,Sebastien Buemi,Toro Rosso,2010
+1016,trulli,Jarno Trulli,Lotus,2010
+1017,rosa,Pedro de la Rosa,Sauber,2010
+1018,bruno_senna,Bruno Senna,HRT,2010
+1019,glock,Timo Glock,Virgin,2010
+1020,petrov,Vitaly Petrov,Renault,2010
+1021,kobayashi,Kamui Kobayashi,Sauber,2010
+1022,grassi,Lucas di Grassi,Virgin,2010
+1023,chandhok,Karun Chandhok,HRT,2010
+1100,vettel,Sebastian Vettel,Red Bull,2011
+1101,hamilton,Lewis Hamilton,McLaren,2011
+1102,petrov,Vitaly Petrov,Renault,2011
+1103,alonso,Fernando Alonso,Ferrari,2011
+1104,webber,Mark Webber,Red Bull,2011
+1105,button,Jenson Button,McLaren,2011
+1106,massa,Felipe Massa,Ferrari,2011
+1107,buemi,Sebastien Buemi,Toro Rosso,2011
+1108,sutil,Adrian Sutil,Force India,2011
+1109,resta,Paul di Resta,Force India,2011
+1110,alguersuari,Jaime Alguersuari,Toro Rosso,2011
+1111,heidfeld,Nick Heidfeld,Renault,2011
+1112,trulli,Jarno Trulli,Lotus,2011
+1113,ambrosio,Jerome d'Ambrosio,Virgin,2011
+1114,glock,Timo Glock,Virgin,2011
+1115,barrichello,Rubens Barrichello,Williams,2011
+1116,rosberg,Nico Rosberg,Mercedes,2011
+1117,kovalainen,Heikki Kovalainen,Lotus,2011
+1118,michael_schumacher,Michael Schumacher,Mercedes,2011
+1119,maldonado,Pastor Maldonado,Williams,2011
+1120,kobayashi,Kamui Kobayashi,Sauber,2011
+1121,perez,Sergio Perez,Sauber,2011
+1122,liuzzi,Vitantonio Liuzzi,HRT,2011
+1123,karthikeyan,Narain Karthikeyan,HRT,2011
+1200,button,Jenson Button,McLaren,2012
+1201,vettel,Sebastian Vettel,Red Bull,2012
+1202,hamilton,Lewis Hamilton,McLaren,2012
+1203,webber,Mark Webber,Red Bull,2012
+1204,alonso,Fernando Alonso,Ferrari,2012
+1205,kobayashi,Kamui Kobayashi,Sauber,2012
+1206,raikkonen,Kimi Raikkonen,Lotus F1,2012
+1207,perez,Sergio Perez,Sauber,2012
+1208,ricciardo,Daniel Ricciardo,Toro Rosso,2012
+1209,resta,Paul di Resta,Force India,2012
+1210,vergne,Jean-Eric Vergne,Toro Rosso,2012
+1211,rosberg,Nico Rosberg,Mercedes,2012
+1212,maldonado,Pastor Maldonado,Williams,2012
+1213,glock,Timo Glock,Marussia,2012
+1214,pic,Charles Pic,Marussia,2012
+1215,bruno_senna,Bruno Senna,Williams,2012
+1216,massa,Felipe Massa,Ferrari,2012
+1217,kovalainen,Heikki Kovalainen,Caterham,2012
+1218,petrov,Vitaly Petrov,Caterham,2012
+1219,michael_schumacher,Michael Schumacher,Mercedes,2012
+1220,grosjean,Romain Grosjean,Lotus F1,2012
+1221,hulkenberg,Nico Hulkenberg,Force India,2012
+1222,rosa,Pedro de la Rosa,HRT,2012
+1223,karthikeyan,Narain Karthikeyan,HRT,2012
+1300,raikkonen,Kimi Raikkonen,Lotus F1,2013
+1301,alonso,Fernando Alonso,Ferrari,2013
+1302,vettel,Sebastian Vettel,Red Bull,2013
+1303,massa,Felipe Massa,Ferrari,2013
+1304,hamilton,Lewis Hamilton,Mercedes,2013
+1305,webber,Mark Webber,Red Bull,2013
+1306,sutil,Adrian Sutil,Force India,2013
+1307,resta,Paul di Resta,Force India,2013
+1308,button,Jenson Button,McLaren,2013
+1309,grosjean,Romain Grosjean,Lotus F1,2013
+1310,perez,Sergio Perez,McLaren,2013
+1311,vergne,Jean-Eric Vergne,Toro Rosso,2013
+1312,gutierrez,Esteban Gutierrez,Sauber,2013
+1313,bottas,Valtteri Bottas,Williams,2013
+1314,jules_bianchi,Jules Bianchi,Marussia,2013
+1315,pic,Charles Pic,Caterham,2013
+1316,chilton,Max Chilton,Marussia,2013
+1317,garde,Giedo van der Garde,Caterham,2013
+1318,ricciardo,Daniel Ricciardo,Toro Rosso,2013
+1319,rosberg,Nico Rosberg,Mercedes,2013
+1320,maldonado,Pastor Maldonado,Williams,2013
+1321,hulkenberg,Nico Hulkenberg,Sauber,2013
+1400,rosberg,Nico Rosberg,Mercedes,2014
+1401,kevin_magnussen,Kevin Magnussen,McLaren,2014
+1402,button,Jenson Button,McLaren,2014
+1403,alonso,Fernando Alonso,Ferrari,2014
+1404,bottas,Valtteri Bottas,Williams,2014
+1405,hulkenberg,Nico Hulkenberg,Force India,2014
+1406,raikkonen,Kimi Raikkonen,Ferrari,2014
+1407,vergne,Jean-Eric Vergne,Toro Rosso,2014
+1408,kvyat,Daniil Kvyat,Toro Rosso,2014
+1409,perez,Sergio Perez,Force India,2014
+1410,sutil,Adrian Sutil,Sauber,2014
+1411,gutierrez,Esteban Gutierrez,Sauber,2014
+1412,chilton,Max Chilton,Marussia,2014
+1413,jules_bianchi,Jules Bianchi,Marussia,2014
+1414,grosjean,Romain Grosjean,Lotus F1,2014
+1415,maldonado,Pastor Maldonado,Lotus F1,2014
+1416,ericsson,Marcus Ericsson,Caterham,2014
+1417,vettel,Sebastian Vettel,Red Bull,2014
+1418,hamilton,Lewis Hamilton,Mercedes,2014
+1419,massa,Felipe Massa,Williams,2014
+1420,kobayashi,Kamui Kobayashi,Caterham,2014
+1421,ricciardo,Daniel Ricciardo,Red Bull,2014
+1500,hamilton,Lewis Hamilton,Mercedes,2015
+1501,rosberg,Nico Rosberg,Mercedes,2015
+1502,vettel,Sebastian Vettel,Ferrari,2015
+1503,massa,Felipe Massa,Williams,2015
+1504,nasr,Felipe Nasr,Sauber,2015
+1505,ricciardo,Daniel Ricciardo,Red Bull,2015
+1506,hulkenberg,Nico Hulkenberg,Force India,2015
+1507,ericsson,Marcus Ericsson,Sauber,2015
+1508,sainz,Carlos Sainz,Toro Rosso,2015
+1509,perez,Sergio Perez,Force India,2015
+1510,button,Jenson Button,McLaren,2015
+1511,raikkonen,Kimi Raikkonen,Ferrari,2015
+1512,max_verstappen,Max Verstappen,Toro Rosso,2015
+1513,grosjean,Romain Grosjean,Lotus F1,2015
+1514,maldonado,Pastor Maldonado,Lotus F1,2015
+1515,kvyat,Daniil Kvyat,Red Bull,2015
+1516,kevin_magnussen,Kevin Magnussen,McLaren,2015
+1517,bottas,Valtteri Bottas,Williams,2015
+1532,merhi,Roberto Merhi,Manor Marussia,2015
+1535,alonso,Fernando Alonso,McLaren,2015
+1537,stevens,Will Stevens,Manor Marussia,2015
+1600,rosberg,Nico Rosberg,Mercedes,2016
+1601,hamilton,Lewis Hamilton,Mercedes,2016
+1602,vettel,Sebastian Vettel,Ferrari,2016
+1603,ricciardo,Daniel Ricciardo,Red Bull,2016
+1604,massa,Felipe Massa,Williams,2016
+1605,grosjean,Romain Grosjean,Haas F1 Team,2016
+1606,hulkenberg,Nico Hulkenberg,Force India,2016
+1607,bottas,Valtteri Bottas,Williams,2016
+1608,sainz,Carlos Sainz,Toro Rosso,2016
+1609,max_verstappen,Max Verstappen,Toro Rosso,2016
+1610,jolyon_palmer,Jolyon Palmer,Renault,2016
+1611,kevin_magnussen,Kevin Magnussen,Renault,2016
+1612,perez,Sergio Perez,Force India,2016
+1613,button,Jenson Button,McLaren,2016
+1614,nasr,Felipe Nasr,Sauber,2016
+1615,wehrlein,Pascal Wehrlein,Manor Marussia,2016
+1616,ericsson,Marcus Ericsson,Sauber,2016
+1617,raikkonen,Kimi Raikkonen,Ferrari,2016
+1618,haryanto,Rio Haryanto,Manor Marussia,2016
+1619,gutierrez,Esteban Gutierrez,Haas F1 Team,2016
+1620,alonso,Fernando Alonso,McLaren,2016
+1621,kvyat,Daniil Kvyat,Red Bull,2016
+1631,vandoorne,Stoffel Vandoorne,McLaren,2016
+1688,max_verstappen,Max Verstappen,Red Bull,2016
+1697,kvyat,Daniil Kvyat,Toro Rosso,2016
+1700,vettel,Sebastian Vettel,Ferrari,2017
+1701,hamilton,Lewis Hamilton,Mercedes,2017
+1702,bottas,Valtteri Bottas,Mercedes,2017
+1703,raikkonen,Kimi Raikkonen,Ferrari,2017
+1704,max_verstappen,Max Verstappen,Red Bull,2017
+1705,massa,Felipe Massa,Williams,2017
+1706,perez,Sergio Perez,Force India,2017
+1707,sainz,Carlos Sainz,Toro Rosso,2017
+1708,kvyat,Daniil Kvyat,Toro Rosso,2017
+1709,ocon,Esteban Ocon,Force India,2017
+1710,hulkenberg,Nico Hulkenberg,Renault,2017
+1711,giovinazzi,Antonio Giovinazzi,Sauber,2017
+1712,vandoorne,Stoffel Vandoorne,McLaren,2017
+1713,alonso,Fernando Alonso,McLaren,2017
+1714,kevin_magnussen,Kevin Magnussen,Haas F1 Team,2017
+1715,stroll,Lance Stroll,Williams,2017
+1716,ricciardo,Daniel Ricciardo,Red Bull,2017
+1717,ericsson,Marcus Ericsson,Sauber,2017
+1718,jolyon_palmer,Jolyon Palmer,Renault,2017
+1719,grosjean,Romain Grosjean,Haas F1 Team,2017
+1750,wehrlein,Pascal Wehrlein,Sauber,2017
+1800,vettel,Sebastian Vettel,Ferrari,2018
+1801,hamilton,Lewis Hamilton,Mercedes,2018
+1802,raikkonen,Kimi Raikkonen,Ferrari,2018
+1803,ricciardo,Daniel Ricciardo,Red Bull,2018
+1804,alonso,Fernando Alonso,McLaren,2018
+1805,max_verstappen,Max Verstappen,Red Bull,2018
+1806,hulkenberg,Nico Hulkenberg,Renault,2018
+1807,bottas,Valtteri Bottas,Mercedes,2018
+1808,vandoorne,Stoffel Vandoorne,McLaren,2018
+1809,sainz,Carlos Sainz,Renault,2018
+1810,perez,Sergio Perez,Force India,2018
+1811,ocon,Esteban Ocon,Force India,2018
+1812,leclerc,Charles Leclerc,Sauber,2018
+1813,stroll,Lance Stroll,Williams,2018
+1814,brendon_hartley,Brendon Hartley,Toro Rosso,2018
+1815,grosjean,Romain Grosjean,Haas F1 Team,2018
+1816,kevin_magnussen,Kevin Magnussen,Haas F1 Team,2018
+1817,gasly,Pierre Gasly,Toro Rosso,2018
+1818,ericsson,Marcus Ericsson,Sauber,2018
+1819,sirotkin,Sergey Sirotkin,Williams,2018
+1900,bottas,Valtteri Bottas,Mercedes,2019
+1901,hamilton,Lewis Hamilton,Mercedes,2019
+1902,max_verstappen,Max Verstappen,Red Bull,2019
+1903,vettel,Sebastian Vettel,Ferrari,2019
+1904,leclerc,Charles Leclerc,Ferrari,2019
+1905,kevin_magnussen,Kevin Magnussen,Haas F1 Team,2019
+1906,hulkenberg,Nico Hulkenberg,Renault,2019
+1907,raikkonen,Kimi Raikkonen,Alfa Romeo,2019
+1908,stroll,Lance Stroll,Racing Point,2019
+1909,kvyat,Daniil Kvyat,Toro Rosso,2019
+1910,gasly,Pierre Gasly,Red Bull,2019
+1911,norris,Lando Norris,McLaren,2019
+1912,perez,Sergio Perez,Racing Point,2019
+1913,albon,Alexander Albon,Toro Rosso,2019
+1914,giovinazzi,Antonio Giovinazzi,Alfa Romeo,2019
+1915,russell,George Russell,Williams,2019
+1916,kubica,Robert Kubica,Williams,2019
+1917,grosjean,Romain Grosjean,Haas F1 Team,2019
+1918,ricciardo,Daniel Ricciardo,Renault,2019
+1919,sainz,Carlos Sainz,McLaren,2019
+2000,bottas,Valtteri Bottas,Mercedes,2020
+2001,leclerc,Charles Leclerc,Ferrari,2020
+2002,norris,Lando Norris,McLaren,2020
+2003,hamilton,Lewis Hamilton,Mercedes,2020
+2004,sainz,Carlos Sainz,McLaren,2020
+2005,perez,Sergio Perez,Racing Point,2020
+2006,gasly,Pierre Gasly,AlphaTauri,2020
+2007,ocon,Esteban Ocon,Renault,2020
+2008,giovinazzi,Antonio Giovinazzi,Alfa Romeo,2020
+2009,vettel,Sebastian Vettel,Ferrari,2020
+2010,latifi,Nicholas Latifi,Williams,2020
+2011,kvyat,Daniil Kvyat,AlphaTauri,2020
+2012,albon,Alexander Albon,Red Bull,2020
+2013,raikkonen,Kimi Raikkonen,Alfa Romeo,2020
+2014,russell,George Russell,Williams,2020
+2015,grosjean,Romain Grosjean,Haas F1 Team,2020
+2016,kevin_magnussen,Kevin Magnussen,Haas F1 Team,2020
+2017,stroll,Lance Stroll,Racing Point,2020
+2018,ricciardo,Daniel Ricciardo,Renault,2020
+2019,max_verstappen,Max Verstappen,Red Bull,2020
+2079,hulkenberg,Nico Hulkenberg,Racing Point,2020
+2100,hamilton,Lewis Hamilton,Mercedes,2021
+2101,max_verstappen,Max Verstappen,Red Bull,2021
+2102,bottas,Valtteri Bottas,Mercedes,2021
+2103,norris,Lando Norris,McLaren,2021
+2104,perez,Sergio Perez,Red Bull,2021
+2105,leclerc,Charles Leclerc,Ferrari,2021
+2106,ricciardo,Daniel Ricciardo,McLaren,2021
+2107,sainz,Carlos Sainz,Ferrari,2021
+2108,tsunoda,Yuki Tsunoda,AlphaTauri,2021
+2109,stroll,Lance Stroll,Aston Martin,2021
+2110,raikkonen,Kimi Raikkonen,Alfa Romeo,2021
+2111,giovinazzi,Antonio Giovinazzi,Alfa Romeo,2021
+2112,ocon,Esteban Ocon,Alpine F1 Team,2021
+2113,russell,George Russell,Williams,2021
+2114,vettel,Sebastian Vettel,Aston Martin,2021
+2115,mick_schumacher,Mick Schumacher,Haas F1 Team,2021
+2116,gasly,Pierre Gasly,AlphaTauri,2021
+2117,latifi,Nicholas Latifi,Williams,2021
+2118,alonso,Fernando Alonso,Alpine F1 Team,2021
+2119,mazepin,Nikita Mazepin,Haas F1 Team,2021
+2200,leclerc,Charles Leclerc,Ferrari,2022
+2201,sainz,Carlos Sainz,Ferrari,2022
+2202,hamilton,Lewis Hamilton,Mercedes,2022
+2203,russell,George Russell,Mercedes,2022
+2204,kevin_magnussen,Kevin Magnussen,Haas F1 Team,2022
+2205,bottas,Valtteri Bottas,Alfa Romeo,2022
+2206,ocon,Esteban Ocon,Alpine F1 Team,2022
+2207,tsunoda,Yuki Tsunoda,AlphaTauri,2022
+2208,alonso,Fernando Alonso,Alpine F1 Team,2022
+2209,zhou,Guanyu Zhou,Alfa Romeo,2022
+2210,mick_schumacher,Mick Schumacher,Haas F1 Team,2022
+2211,stroll,Lance Stroll,Aston Martin,2022
+2212,albon,Alexander Albon,Williams,2022
+2213,ricciardo,Daniel Ricciardo,McLaren,2022
+2214,norris,Lando Norris,McLaren,2022
+2215,latifi,Nicholas Latifi,Williams,2022
+2216,hulkenberg,Nico Hulkenberg,Aston Martin,2022
+2217,perez,Sergio Perez,Red Bull,2022
+2218,max_verstappen,Max Verstappen,Red Bull,2022
+2219,gasly,Pierre Gasly,AlphaTauri,2022
+2258,vettel,Sebastian Vettel,Aston Martin,2022
+2300,max_verstappen,Max Verstappen,Red Bull,2023
+2301,perez,Sergio Perez,Red Bull,2023
+2302,alonso,Fernando Alonso,Aston Martin,2023
+2303,sainz,Carlos Sainz,Ferrari,2023
+2304,hamilton,Lewis Hamilton,Mercedes,2023
+2305,stroll,Lance Stroll,Aston Martin,2023
+2306,russell,George Russell,Mercedes,2023
+2307,bottas,Valtteri Bottas,Alfa Romeo,2023
+2308,gasly,Pierre Gasly,Alpine F1 Team,2023
+2309,albon,Alexander Albon,Williams,2023
+2310,tsunoda,Yuki Tsunoda,AlphaTauri,2023
+2311,sargeant,Logan Sargeant,Williams,2023
+2312,kevin_magnussen,Kevin Magnussen,Haas F1 Team,2023
+2313,de_vries,Nyck de Vries,AlphaTauri,2023
+2314,hulkenberg,Nico Hulkenberg,Haas F1 Team,2023
+2315,zhou,Guanyu Zhou,Alfa Romeo,2023
+2316,norris,Lando Norris,McLaren,2023
+2317,ocon,Esteban Ocon,Alpine F1 Team,2023
+2318,leclerc,Charles Leclerc,Ferrari,2023
+2319,piastri,Oscar Piastri,McLaren,2023

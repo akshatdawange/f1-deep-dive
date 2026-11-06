@@ -1,0 +1,498 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Racing+Sans+One&display=swap');
+
+body {
+      margin: 0;
+      font-family: sans-serif;
+      background: #FFEBEB;
+      color: #000000;
+}
+.racing-sans-one-regular {
+  font-family: "Racing Sans One", sans-serif;
+  font-style: normal;
+}
+
+header {
+  background: #E10600;
+  color: #ffffff;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:baseline;
+  font-family:"Racing Sans One", sans-serif;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.intro-globe-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 40px;
+  padding: 40px 80px;
+  flex-wrap: nowrap;
+}
+
+.intro-text {
+  flex: 1 1 50%;
+  min-width: 400px;
+  max-width: 800px;
+  text-align: justify;
+}
+
+.intro-globe {
+  flex: 1 1 50%;
+  min-width: 350px;
+  max-width: 600px;
+  text-align: center;
+}
+
+.intro-globe h2 {
+  margin-bottom: 20px;
+}
+
+.globe-caption {  
+  font-size: 14px;
+  color: #000000;
+}
+
+.globe-container {
+  display: flex;
+  flex: 1;
+  padding: 5px;
+  justify-content: center;
+  align-items: center;
+  max-width: 50%;
+}
+    svg {
+      display: block;
+    }
+
+    .tooltip {
+      position: absolute;
+      background: #333;
+      color: #fff;
+      padding: 6px 10px;
+      border-radius: 4px;
+      font-size: 14px;
+      pointer-events: none;
+      opacity: 0;
+    }
+
+.section-split {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: nowrap;          
+  gap: 40px;
+  padding: 40px 80px;
+}
+
+.team-left,
+.team-right {
+  flex: 1 1 50%;
+  min-width: 400px;
+  text-align: justify;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 30px;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.team-card {
+  background:transparent;
+  padding: 12px;
+  border-radius: 8px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.team-name {
+  color: #000000;
+  font-weight: bold;
+  margin-top: 4px;
+  font-size: 12px;
+}
+
+.team-logo {
+  height: 55px;
+  width: auto;
+  object-fit: contain;
+  margin-bottom: 1px;
+}
+
+#teams-section h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #000000;
+}
+
+#intro-text h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #000000;
+}
+
+#analysis-section {
+  background-color: #FFEBEB;
+  color: #0C2332;
+  padding:  40px 60px 60px 60px;
+  margin-left: var(--sidebar-width);
+  min-height: 100vh;
+}
+
+#analysis-section h2 {
+  font-size: 32px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+#analysis-interactive select {
+  padding: 6px 10px;
+  margin: 10px;
+  background: #290E00;
+  color: #FFA270 ;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+#team-dropdown {
+  display: block;
+}
+
+.driver-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 120px;
+  cursor: pointer;
+}
+
+.driver-name {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.driver-bar {
+  width: 100%;
+  height: 30px;
+  background-color: #38bdf8;
+  border-radius: 5px;
+  transition: width 1s ease;
+  color: #000000;
+}
+
+.driver-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+}
+
+.bar-wrapper {
+  width: 60px;
+  height: 150px;
+  background: transparent;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+}
+
+.driver-bar {
+  width: 100%;
+  background-color: orange;
+  border-radius: 5px 5px 0 0;
+  transition: height 1s ease;
+  position: relative;
+}
+
+.bar-points {
+  position: absolute;
+  bottom: 5px;
+  font-weight: bold;
+  color: #150101;
+  font-size: 14px;
+}
+
+.tooltip {
+  position: fixed;
+  z-index: 9999;
+  background: #333;
+  color: #fff;
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-size: 14px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.analysis-grid {
+  display: flex;
+  gap: 40px;
+  margin-top: 30px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+#contribution-meter {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 40px;
+  padding: 20px;
+}
+
+
+.driver-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100px;
+  gap: 10px;
+}
+
+.driver-bar {
+  width: 100%;
+  transition: height 0.8s ease;
+  border-radius: 6px 6px 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  font-weight: bold;
+  color: #fff;
+}
+
+.bar-wrapper {
+  height: 180px;
+  width: 100%;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-start;
+  align-items: center;
+  border: none;
+  border-radius: 6px;
+}
+
+.bar-points {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  top: 4px;
+  font-weight: bold;
+  color: #444;
+  font-size: 14px;
+}
+
+#total-points {
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
+
+#network-modal {
+  display: none;
+  position:fixed;
+  top: 10%;
+  left: 15%;
+  width: 70%;
+  height: 70%;
+  background: #898AA9;
+  color: #0A2E33;
+  border-radius: 10px;
+  z-index: 9999;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: #ef4444; 
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #dc2626;
+}
+
+button:active {
+  transform: scale(0.96);
+}
+
+.chart-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #101F2E;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#contribution-meter .driver-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #101F2E;
+}
+
+.driver-bar {
+  width: 100px;
+  transition: height 0.6s ease;
+  border-radius: 8px 8px 0 0;
+}
+
+#total-points {
+  font-size: 32px;
+  font-weight: bold;
+  color: #101F2E;
+  align-self: center;
+  margin-top: 20px;
+}
+
+.chart-left,
+.chart-right {
+  flex: 1;
+  min-width: 300px;
+  padding: 20px;
+}
+
+#analysis-section p {
+  font-size: 16px;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.minimal-credits {
+  text-align: center;
+  padding: 10px 0;
+  font-size: 14px;
+  font-family: 'Arial', sans-serif;
+  color: #85FFF7;
+  background-color: #161315;
+  margin-top: 40px;
+  border-top: 1px solid #ddd;
+}
+
+.minimal-credits p {
+  margin: 0;
+}
+
+.minimal-credits a {
+  color: #FE1C0B;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.minimal-credits a:hover {
+  color: #FFC933;
+}
+
+.minimal-credits span {
+  margin: 0 6px;
+  color: #999;
+}
+
+@media screen and (max-width: 1024px) {
+
+  header h1 {
+    font-size: 1.5rem;
+    text-align: center;
+    flex-wrap: wrap;
+  }
+
+  .intro-globe-wrapper,
+  .section-split,
+  .analysis-grid {
+    flex-direction: column;
+    padding: 20px;
+    gap: 20px;
+  }
+
+  .intro-text,
+  .intro-globe,
+  .team-left,
+  .team-right,
+  .chart-left,
+  .chart-right {
+    width: 100%;
+    max-width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  .team-grid {
+    grid-template-columns: repeat(2, 1fr);  /* 2 columns on small screens */
+    gap: 20px;
+  }
+
+  .team-card {
+    padding: 10px;
+  }
+
+  .team-logo {
+    height: 45px;
+  }
+
+  #network-modal {
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 85%;
+    padding: 10px;
+    font-size: 0.9rem;
+    overflow-y: auto;
+  }
+
+  #teammate-network {
+    width: 100% !important;
+    height: 100% !important;
+  }
+
+  #analysis-interactive select,
+  button {
+    width: 100%;
+    max-width: 100%;
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+
+  .driver-box {
+    width: 140px;
+  }
+
+  .bar-wrapper {
+    height: 130px;
+  }
+
+  .chart-title {
+    font-size: 1.1rem;
+  }
+
+  #total-points {
+    font-size: 28px;
+  }
+
+  footer.minimal-credits {
+    font-size: 12px;
+    padding: 8px;
+  }
+}
